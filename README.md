@@ -108,3 +108,23 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+
+---
+## 🧑‍💻 Submission Details -- THE BUTTERFLY BUREAUCRAT
+
+### 👤 Name
+Lokendra SIngh Rajawat
+**Roll No:** 1011007585
+
+### 🧠 Theme
+If Else Then
+
+### 🔗 Itch.io Link
+[Play the Game](https://lokendra005.itch.io/the-butterfly-bureaucrat)
+
+
+### 🎥 Demo Video
+[Watch Demo](https://www.loom.com/share/c220937997864a1cb1821f66dc7e22fb)
+
+---
+
