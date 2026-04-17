@@ -108,3 +108,23 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+
+### Submission — Lost In Space
+### 👤 Name
+Pranav (Roll 10145)
+
+### 🧠 Theme
+Searching — Searching for items to make a connection back to planet earth, when all connections got lost in space.
+
+### 🔗 Itch.io Link
+[Play Lost In Space](https://pranav1100.itch.io/lost-in-space)
+
+### 🗂️ Project Code
+[`Lost In Space Github`](https://github.com/Pranav-1100/LostInSpace) 
+
+### Project ZIP
+['Zip'](Submissions/LostInSpace-Build.zip)
+
+### Video Link
+[Watch Video](https://drive.google.com/file/d/18aIOBmtb4gwh3gbzkpyGGA2HfPYnJ7gP/view?usp=sharing)
+
