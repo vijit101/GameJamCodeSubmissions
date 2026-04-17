@@ -1,5 +1,0 @@
-﻿#: Wall
-.: Empty Space
-@: Player Start Position
-C: Crate
-T: Target Spot (where the crates need to be moved)
