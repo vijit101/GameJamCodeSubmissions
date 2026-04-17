@@ -8,6 +8,22 @@ Each project demonstrates a core programming concept through an interactive game
 ## 🧑‍💻 Submission Details
 
 ### 👤 Name
+Kushagra Sharma
+**Roll No:** 10165
+
+### 🧠 Theme
+The Doomed Game - Miss Backman
+
+### 🔗 Itch.io Link
+[Play the Game](https://skushagra.itch.io/miss-backman)
+
+### 📦 Repo / Drive Link
+[Game Code (Github))](https://github.com/skushagra/miss-backman)
+
+### 🎥 Demo Video
+[Watch Demo](https://www.loom.com/share/1a35018271eb44cbb8671a534ca61475)
+
+### 👤 Name
 Ankur Kalita  
 **Roll No:** 10185
 
