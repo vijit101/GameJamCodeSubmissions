@@ -108,3 +108,20 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+### Submission — Runtime Rescue
+### 👤 Name
+Jash Savaliya
+
+### 🧠 Theme
+Runtime - High-pressure bug-fixing survival game set inside a collapsing operating system.
+
+### 🔗 Itch.io Link
+[Play the Game](https://explorerrr.itch.io/runtime-rescue)
+
+### 📦 Source Repo
+[https://github.com/Jash2606/runtimeRescue](https://github.com/Jash2606/runtimeRescue)
+
+### 🗂️ Project Zip
+[`RuntimeRescue.zip`](RuntimeRescue.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
