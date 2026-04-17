@@ -108,3 +108,20 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+
+### 👤 Name
+Aditya Jaiswal
+**Roll No:** 10007
+
+### 🧠 Theme
+Divide and Conquer
+
+### 🔗 Itch.io Link
+[Play the Game](https://aditya-03.itch.io/split-fire)
+
+### 📦 Repo / Drive Link
+[Game Build (GitHub)](https://github.com/Adityajaiswal03/GameJamCodeSubmissions/blob/splitfire/Splitfire.zip)
+
+### 🎥 Demo Video
+[Watch Demo](https://drive.google.com/file/d/1OzPleoAJwV15I_j_z70t_6zEahrHHpez/view?usp=sharing)
+
