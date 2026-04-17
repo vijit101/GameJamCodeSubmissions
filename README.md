@@ -108,3 +108,22 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+
+### Submission - Building Tension
+### 👤 Name 
+Arjun Ojha (Roll No. - 10068)
+
+### 🧠 Theme
+Constructor
+
+### 🔗 Itch.io Link
+[Play Buiilding Tension](https://7arj.itch.io/constructorr)
+
+### 📦 Source Repo
+[GitHub Repository](https://github.com/7arj/building-tension)
+
+### 🗂️ Project Zip
+[BuildingTension.zip](BuildingTension.zip)
+
+
+
