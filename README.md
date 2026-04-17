@@ -108,3 +108,37 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+### Submission — Little Homestead 
+
+### 👤 Name
+Rushabh Mistry
+
+### 🧠 Theme
+ENCAPSULATION
+
+### 🔗 Itch.io Link
+[Play the Game on Itch.io](https://rushhaabhhh.itch.io/little-homestead)
+
+### 🎥 Gameplay Video
+[Watch Gameplay](https://www.loom.com/share/3c3262d5f6d244e4a4293ddb0eabbaa5)
+
+### 📁 Source Folder
+[`Little-Homestead.zip`](Little-Homestead.zip)
+### 🛠️ Tech Stack
+Unity (C#) · 2D Built-in RP · Event-Driven Architecture · WebGL
+
+### 📝 Game Description
+A 2D survival farming adventure where you play as a simple farmer chopping trees, collecting wood, water and fish, growing carrots, and building houses with a skeleton enemy living nearby who attacks you if you enter his territory.
+
+**How it fits the theme (Encapsulation):** The concept of encapsulation is baked into the world's physics and rules. You collect raw items (wood or fish) encapsulated in other objects (trees or water bodies), combine distinct scopes (like merging water and soil to yield a carrot), and must navigate strict, encapsulated zones where the enemy skeletons live and operate.
+
+### 🎮 Controls
+| Input | Action |
+|---|---|
+| **W, A, S, D** / Arrows | Move |
+| **Left-click** | Use active tool / Attack |
+| **Right-click** | Dodge / Roll |
+| Hold **Left Shift** | Run |
+| **1, 2, 3** keys | Equip Tools (Enters **PUBLIC** State - Vulnerable) |
+| **E** | Interact (Harvest, Fill Water, Build, Query NPCs) |
