@@ -108,3 +108,19 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+### Submission — Shreyas Garg
+### 👤 Name
+Shreyas Garg (Roll 23BCS10155)
+
+### 🔗 Itch.io Link
+[Play Quarantine](https://shreyasgarg.itch.io/quarantine)
+
+### 🧠 Theme
+Encapsulation
+
+### 🗂️ Project Zips
+[`Assets.zip`](Assets.zip), [`Packages.zip`](Packages.zip), [`ProjectSettings.zip`](ProjectSettings.zip)
+
+### 📝 Issue
+[#33 Shreyas Garg 23BCS10155 | Theme: Encapsulation](https://github.com/vijit101/GameJamCodeSubmissions/issues/33)
+
