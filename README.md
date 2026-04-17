@@ -8,12 +8,15 @@ Each project demonstrates a core programming concept through an interactive game
 ## 🧑‍💻 Submission Details
 
 ### Submission Sample 1 Template
+
 ### 👤 Name
-Participant 1  
+
+Mayank Gupta
 
 ### 🧠 Theme
-Loops  
+
+Classes , If - else , Function
 
 ### 🔗 Itch.io Link
-[Play the Game](https://xyz)
 
+[Play the Game](https://hollow-abyss.itch.io/disc-throw)
