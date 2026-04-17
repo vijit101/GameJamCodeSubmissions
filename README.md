@@ -108,3 +108,40 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+### Submission — CacheCal
+### 👤 Name
+Suswetha
+
+### 🧠 Theme
+Cache — a fast-paced 2D math puzzle game developed in Unity where you compute intermediate results and store them in a CPU-style cache to reach a target number.
+
+**Theme: Cache Memory & Eviction** — every operation you perform stores its result into a limited-size cache (FIFO eviction). Cached values are reusable but original cards are consumed on use, forcing you to think ahead and exploit cached results like a real CPU register file.
+
+Navigate through 5 increasingly difficult levels, managing a 2-slot cache, choosing the right operator sequence, and hitting par to unlock a bonus 3-slot cache on the next level!
+
+### 🎮 Controls
+| Input | Action |
+|---|---|
+| Click a card | Select first / second operand |
+| Click an operator | Compute and cache the result |
+| Clear button | Deselect current selection |
+| Restart button | Reset the level |
+
+### ✨ Features
+- **Cache-based arithmetic** — results live in a FIFO cache (2 slots default), not in your hand.
+- **Consumed cards** — original number cards are used up; only cached values persist.
+- **Strict operators** — subtraction (positive only), division (exact integer only), modulo (non-zero remainder only).
+- **Par scoring** — hit par in 2 moves → ⭐⭐⭐ Perfect; +1 move → ⭐⭐ Good; beyond → ⭐.
+- **Bonus cache expansion** — reach par and the next level starts with 3 cache slots.
+- **5 hand-crafted levels** with no single-step solution — the cache is always required.
+
+### 🗂️ Project Zip
+[`CacheCal.zip`](CacheCal.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+
+### 🔗 Itch.io Link
+[Play CacheCal](https://siri6.itch.io/cachecal?secret=bCthBKkY2Gu1e75KzxnmiGAUyY)
+
+### 🛠️ Tech Stack
+Unity 6 · URP 2D · C# · TextMeshPro · WebGL
