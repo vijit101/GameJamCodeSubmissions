@@ -122,6 +122,9 @@ Searching — Searching for items to make a connection back to planet earth, whe
 ### 🗂️ Project Code
 [`Lost In Space Github`](https://github.com/Pranav-1100/LostInSpace) 
 
+### Project ZIP
+['Zip'](Submissions/LostInSpace-Build.zip)
+
 ### Video Link
 [Watch Video](https://drive.google.com/file/d/18aIOBmtb4gwh3gbzkpyGGA2HfPYnJ7gP/view?usp=sharing)
 
