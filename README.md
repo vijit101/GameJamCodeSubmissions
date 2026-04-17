@@ -124,4 +124,4 @@ Runtime - High-pressure bug-fixing survival game set inside a collapsing operati
 [https://github.com/Jash2606/runtimeRescue](https://github.com/Jash2606/runtimeRescue)
 
 ### 🗂️ Project Zip
-[`runtimeRescue.zip`](runtimeRescue.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+[`RuntimeRescue.zip`](RuntimeRescue.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
