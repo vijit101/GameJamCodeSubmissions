@@ -31,7 +31,6 @@ Thumbs.db
 *.aab
 *.app
 *.exe
-*.unitypackage
-*.zip
+*.unitypackages
 *.7z
 *.tar.gz
