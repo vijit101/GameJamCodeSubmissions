@@ -108,3 +108,19 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+## 🧑‍💻 Submission Details
+
+### 👤 Name
+Aditya Prasad Dash  
+**Roll No:** 10138
+
+### 🧠 Theme
+Loop
+
+### 🔗 Itch.io Link
+[Play the Game](https://attachment-studios.itch.io/hamster-over-wheel)
+
+### 🎥 Demo Video
+[Watch Demo](https://youtu.be/ktQFUdtNUQQ)
