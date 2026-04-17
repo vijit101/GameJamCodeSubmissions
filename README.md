@@ -108,3 +108,36 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+
+---
+
+### Submission — Search For Yourself
+### 👤 Name
+Shivam Tiwari
+
+### 🧠 Theme
+Search / Exploration — navigate a procedurally-built two-story house and find 5 hidden items scattered across rooms, the garden, and a path.
+
+### 🔗 Itch.io Link
+[Play Search For Yourself](https://shivammmdev.itch.io/search-for-yourself)
+
+### 🗂️ Project Zip
+[`SearchForYourself.zip`](SearchForYourself.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+
+### 🛠️ Tech Stack
+Unity 6 LTS (6000.3.10f1, C#) · Built-in RP · WebGL · Legacy Input Manager
+
+### 📝 One-liner
+A short first-person exploration game — search a procedurally-built two-story house to find 5 hidden items (photograph, diary, mirror, clock, key). Every collectible glows with an emissive material, halo light, and vertical beacon. Added keyboard-only camera rotation (Q/E yaw, R/F pitch) so players can look around without dragging the trackpad.
+
+### 🎮 Controls
+| Input | Action |
+|---|---|
+| WASD | Move |
+| Mouse | Look |
+| Q / E | Yaw left / right (360°) |
+| R / F | Pitch up / down |
+| Arrow Keys | Also rotate camera |
+| Shift | Sprint |
+| Space | Jump |
+| E | Pick up item |
