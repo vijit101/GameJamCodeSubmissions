@@ -108,3 +108,41 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+# Gem Slayer
+
+## 🧑‍💻 Submission Details
+
+### 👤 Name
+Manjari Rathore  
+**Roll No:** 10192
+
+### 🧠 Theme
+Pathfinder
+
+### 🔗 Itch.io Link
+[Play the Game](https://manjarirathore.itch.io/gem-slayer)
+
+### 🗂️ Project Zip
+[Game Build (Google Drive)](https://drive.google.com/file/d/1SKLqv7VSqqU4nxF-wtqaV4P-lazRe8lD/view?usp=sharing)
+
+### 🎥 Demo Video
+[Watch Demo](https://drive.google.com/file/d/1tzPQCJ-VBFVWnFDHSUOJ2hlM691x8xb4/view?usp=sharing)
+
+---
+
+A dungeon crawler built in Unity 6.
+
+**Gameplay:** Navigate randomly generated dungeons, collect all diamonds while avoiding enemies, then reach the exit to escape!
+
+**Controls:** WASD/Arrow Keys = Move | R = Restart
+
+**Features:**
+- Procedural room-based dungeon generation
+- Two enemy AI types (patrol & chase)
+- Grid-based movement
+
+**Engine:** Unity 6 (WebGL)
+
+**Developer:** Manjari Rathore
