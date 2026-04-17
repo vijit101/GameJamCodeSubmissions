@@ -108,3 +108,25 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+### Submission — What a Mole
+
+### 👤 Name
+Shrinibas Mahanta (10067)
+
+### 🧠 Theme
+Polymorphism — seven mole subclasses (`NormalMole`, `FastMole`, `ArmoredMole`, `GoldenMole`, `BombMole`, `StealthMole`, `SplitterMole`) and three weapon subclasses (`HammerWeapon`, `KatanaWeapon`, `BombWeapon`) share two abstract base classes, each overriding only what differs — armored needs multiple hits, stealth fades, bomb flood-fills adjacent holes, splitter spawns children on death, golden restores stolen carrots. The game loop never checks concrete types.
+
+### 🔗 Itch.io Link
+[Play What a Mole](<https://2k4sm.itch.io/what-a-mole>)
+
+### 📦 Source Repo
+[github.com/2k4sm/what-a-mole](<https://github.com/2k4sm/what-a-mole>)
+
+### 🗂️ Project Zip
+[`WhatAMole.zip`](WhatAMole.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+
+### Drive Zip Link: [Zip Link](<https://drive.google.com/file/d/1eG1AC2VMCFYcOI3wwGUJfMYUFMq3HC5p/view?usp=sharing>)
+
+### Demo Link: [Demo](<https://drive.google.com/file/d/1leUJ1lNiutd-Hz1dbXeqmkdR5vCyOaB2/view?usp=sharing>)
