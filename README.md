@@ -108,3 +108,12 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+### Submission — Runtime Rescue
+### 👤 Name
+Jash2606
+
+### 🧠 Theme
+Runtime
+
