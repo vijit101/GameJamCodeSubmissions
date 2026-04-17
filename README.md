@@ -108,3 +108,35 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+### Submission — Wide Putin: Special Widescreen Operation
+### 👤 Name
+Nymish Kashivishwanath
+**Roll No:** 23BCS10127
+
+### 🧠 Theme
+Memes / Pop Culture — a Wide Putin meme runner. Catch good stuff (vodka, oil, rubles) to get wider, dodge bad stuff (sanctions, NATO, Navalny) to not get thinner. Hit the target width by level end or fail. Level 3 finish = rickroll.
+
+### 🔗 Itch.io Link
+[Play Wide Putin](https://nymish.itch.io/wide-putin)
+
+### 🎥 Gameplay Video
+[Watch on Google Drive](https://drive.google.com/file/d/1b1VYluMDRhCDy2ElTNGPh6wGpO_SPhnb/view?usp=sharing)
+
+### 🗂️ Project Zip
+[`WidePutin.zip`](WidePutin.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+
+### 🛠️ Tech Stack
+Unity 6 LTS (2D URP) · C# · DOTween · TextMeshPro · VideoPlayer · WebGL
+
+### 📝 One-liner
+Putin slides left and right catching falling collectibles; good ones widen him, bad ones thin him out. Three themed levels (Moscow → Europe → Summit) with escalating width targets, Modi/Trump meme video overlays on collision, procedurally-generated SFX, and a Rick Astley grand finale. Built in one day for the jam.
+
+### 🎮 Controls
+| Input | Action |
+|---|---|
+| ← / → or A / D | Move Putin |
+| SPACE / ENTER / CLICK | Start game · dismiss meme overlays · return to title after rickroll |
+| R | Retry level on fail |
+
