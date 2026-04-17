@@ -108,3 +108,48 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+### Submission — Chain Reaction Arena
+
+### 👤 Name  
+Atharv Sanjay Jain  
+
+### 🧠 Theme  
+STRATEGY × CHAIN REACTIONS  
+
+### 🔗 Itch.io Link  
+[Play the Game](https://d-v-y-n-e.itch.io/chain-reaction-20)
+
+### 🎥 Gameplay Video  
+[Watch Gameplay](https://drive.google.com/file/d/19m3C7pyFxjS7aokIAIWBr1Hb0y8y3qwX/view?usp=sharing)
+
+### 📁 Source Code  
+[GitHub Repository](https://github.com/Atharv-2004/Chain-Reaction-Pro)
+
+### 🛠️ Tech Stack  
+Unity (C#) · WebGL · Unity UI System  
+
+### 📝 One-liner  
+A strategic 2-player Chain Reaction game with power-ups, an in-game economy system, and a best-of-3 match format — fully playable using mouse controls.
+
+### 🎮 Controls  
+| Input | Action |
+|------|--------|
+| Left Click | Place orb / Select cell |
+| UI Buttons | Activate power-ups |
+| Left Click (Laser mode) | Clear row |
+| Right Click (Laser mode) | Clear column |
+
+### ✨ Features  
+- 2-player turn-based gameplay  
+- Credit-based economy system  
+- Power-ups: Laser, Trap, Block, Bomb, Swap, Diagonal  
+- Chain reaction explosion mechanics  
+- Best-of-3 (BO3) match system  
+- Timer-based win condition  
+- Multiple map layouts  
+
+### 🧠 Highlights  
+- Fully mouse-driven gameplay  
+- Dynamic grid system  
+- Real-time UI updates  
+- Modular and scalable game architecture  
