@@ -108,3 +108,10 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+
+### Submission- Frendox
+ ### Name: Sarthak Pandey
+### Theme - Brute Force 
+
+Brute Force sorcery game based on words!
+
