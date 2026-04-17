@@ -108,3 +108,40 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+
+---
+
+### Submission — RageBait: Adapt Or Die
+### 👤 Name
+Aayush Ashok Khopade (Roll No: 23BCS10050)
+
+### 🧠 Theme
+Conditional Logic (if/else) — The game's core mechanic is a dynamic Rule Engine where hazard behaviors (`if fire → kill` becomes `if fire → heal`) mutate based on player deaths and level progression. What the player learns as "true" in Level 1 becomes a lie in Level 2.
+
+### 🔗 Game Link
+[Play RageBait](#) *(WebGL build pending)*
+
+### 📁 Source Folder
+[Submissions/RageBait](Submissions/RageBait/)
+
+### 🛠️ Tech Stack
+Unity 2022.3.62f3 (C#) · 3D Side-Scroller · Kenney Assets · 49 Scripts
+
+### 📝 One-liner
+A deliberately deceptive platformer that teaches rules, then breaks them — fire kills in Level 1, heals in Level 2, and everything is chaos in Level 3. 31 death taunts, fake checkpoints, invisible walls, and a trolling timer that says "BOOM!" then "jk. no timer lol".
+
+### 🎮 Controls
+| Input | Action |
+|---|---|
+| A/D or Arrows | Move |
+| SPACE | Jump |
+| Survive | Reach the gold EndZone |
+
+### 🎯 Ragebait Features
+- Dynamic Rule Engine: hazards change behavior per level
+- Fake tip on start screen: "FIRE IS DEADLY" (it's a lie)
+- Fake checkpoints that kill you
+- Trolling timer that explodes then says "jk"
+- 31 unique death taunts
+- Control reversal every 4th death
+- "YOU ADAPTED." win screen with savage death ratings
