@@ -108,3 +108,24 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+## 🧑‍💻 Submission Details
+
+### 👤 Name
+Aarya Patil
+**Roll No:** 10170
+
+### 🧠 Theme
+Dependency - You play as a weak parasite that can only survive outside a host for a few seconds. To progress, you must leave a host, possess a new one, gain its ability, solve the level, and reach the exit.
+
+### 🔗 Itch.io Link
+[Play the Game](https://dar3devil.itch.io/parasite)
+
+### 📦 Repo / Drive Link
+[Game Build (Google Drive)](https://github.com/Aarya01Patil/GameJamCodeSubmissions#)
+
+### 🎥 Demo Video
+[Watch Demo](https://drive.google.com/file/d/1F0mYwo6k9nLluYckC779oWbVx6YNXA0U/view?usp=sharing)
+
+---
