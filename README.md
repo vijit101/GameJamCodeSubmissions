@@ -108,3 +108,18 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+
+### Submission — RecursionDungeon
+### 👤 Name
+Krishna Patidar (Roll 10036)
+
+### 🧠 Theme
+Recursion — A 2D top‑down dungeon crawler about recursion. Solve the deepest room first, unwind the stack, and escape before the bomb blows.
+
+### 🔗 Itch.io Link
+[Play RecursionDungeon](https://krish060.itch.io/recursion-dungeon)
+
+### 🗂️ Project Zip
+[`RecursionDungeon-Web.zip`](RecursionDungeon-Web.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+
+### Demo Link: [Demo] (https://www.loom.com/share/b22b4823a1574f27a7bcc3d5626a4b61)
