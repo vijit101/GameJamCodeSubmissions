@@ -8,6 +8,22 @@ Each project demonstrates a core programming concept through an interactive game
 ## 🧑‍💻 Submission Details
 
 ### 👤 Name
+Paramjeet Kaur Matharu
+**Roll No:** 10189
+
+### 🧠 Theme
+Queue
+
+### 🔗 Itch.io Link
+[Play the Game](https://kauxp.itch.io/uncrackedqueue)
+
+### 📦 Repo / Drive Link
+[Game Code (Github))](https://github.com/kauxp/uncracked-queue)
+
+### 🎥 Demo Video
+[Watch Demo](https://www.loom.com/share/8171d8c103a84b3c84d429b065fe584e)
+
+### 👤 Name
 Ankur Kalita  
 **Roll No:** 10185
 
