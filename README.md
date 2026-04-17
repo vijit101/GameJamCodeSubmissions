@@ -108,3 +108,22 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+### 👤 Name
+Kumar Kartikay
+
+### Roll No
+10129
+
+### 🧠 Theme
+Stacks
+
+### 🔗 Itch.io Link
+[Play the Game](https://kkartikay.itch.io/dashin)
+
+### 🗂️ Project Zip
+[`Dashin.zip`](Submissions/Dashin.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/` 
+Submitted in Submissions folder
+
+---
