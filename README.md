@@ -4,6 +4,23 @@ This repository contains game jam submissions based on programming themes.
 Each project demonstrates a core programming concept through an interactive game.
 
 ---
+## 🧑‍💻 Submission Details
+
+### 👤 Name
+Amlan Buragohain  
+**Roll No:** 10032
+
+### 🧠 Theme
+Buffer Overflow
+
+### 🔗 Itch.io Link
+[Play the Game](https://amlanxbghn.itch.io/memory-leak-merge)
+
+### 📦 Repo / Drive Link
+[Game Build (Google Drive)](https://drive.google.com/file/d/1iNQGZHsuGmVs_7PPDSLu7UDJ6JHa3P26/view?usp=sharing)
+
+### 🎥 Demo Video
+[Watch Demo](https://drive.google.com/file/d/1HRc5KfJs5kit_ALMVqEHAg02aJSPfOfg/view?usp=sharing)
 
 ## 🧑‍💻 Submission Details
 
